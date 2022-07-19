@@ -10,6 +10,8 @@
 // • Kannachann
 // • The.Sad.Boy01
 // • Rasel comel
+// • Irfaan Official
+// • Rafli Official
 // • Xtreshe (Beban)
 // • Dll
 
@@ -51,23 +53,23 @@ global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '089531704997'
 global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '083163989496'
-global.ppulsa2 = '-'
+global.pgopay = '085159892661'
+global.ppulsa = '085171660730'
+global.ppulsa2 = '085159892661'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '-'
-global.nomorown = '6288217843188'
-global.namebot = '𝗕𝗢𝗧 𝗪𝗔𝗡𝗚𝗦𝗔𝗙'
-global.nameown = 'X dev'
+global.nomorbot = '085171660730'
+global.nomorown = '6285171660730'
+global.namebot = 'Rafli Botz '
+global.nameown = 'Rafli Official'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288217843188', 'X Dev', true]
+  ['6285171660730', 'Rafli Official', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,9 +114,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 尺乇ㄒ乇卂爪 |ᗪ  乃ㄖㄒ 山卂几ᘜ丂卂千⁩ 」' //Main Watermark
-global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
-global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
+global.wm = '「 Rafli Official |ᗪ Rafli Botz 」' //Main Watermark
+global.wm2 = '    乂 Rafli Official 乂     '
+global.wm3 = 'Rafli Official |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = 'ㄩ几| 丂ㄖᐯ|乇ㄒ✯✯✯✯✯ '
@@ -122,9 +124,9 @@ global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/5444accedcd06f172899d.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/5444accedcd06f172899d.jpg'
-global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/ef27f6bd4b70284e74c40.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/ef27f6bd4b70284e74c40.jpg'
+global.thumbbc = 'https://telegra.ph/file/ef27f6bd4b70284e74c40.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -171,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '\n'
-global.stickauth = `乂 尺乇ㄒ乇卂爪.|ᗪ \nig reteam.id`
+global.stickauth = `乂 Rafli Official.|ᗪ \nig reteam.id`
 
 global.multiplier = 38 // The higher, The harder levelup
 
